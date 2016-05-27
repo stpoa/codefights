@@ -6,9 +6,11 @@
 
 /* https://codefights.com/challenge/J8qXEKPYt4mtnMPaR
 
-You are given a positive integer n either as a number, or in the format "a^b", where a and b are positive integers (possibly with leading zeros).
+You are given a positive integer n either as a number, or in the format "a^b",
+where a and b are positive integers (possibly with leading zeros).
 
-Your task is to sum all digits in n. Repeat the process until you get a single digit and return it.
+Your task is to sum all digits in n. Repeat the process until you get a single
+digit and return it.
 
 Example
 
